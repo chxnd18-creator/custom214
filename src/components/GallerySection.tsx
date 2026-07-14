@@ -119,7 +119,7 @@ export default function GallerySection({ onNext }: GallerySectionProps) {
   const myPhotos = [
     "/images/1.jpeg",
     "/images/2.jpeg",
-    "/images/3.jpeg",
+    "/images/3.png",
     "/images/4.jpeg",
     "/images/5.jpeg",
     "/images/6.jpeg",
